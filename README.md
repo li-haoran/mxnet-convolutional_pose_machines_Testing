@@ -5,5 +5,5 @@ i just convert the caffe model to the mxnet and do some morphs.
 ## Result
 ![result](https://github.com/li-haoran/mxnet-convolutional_pose_machines_Testing/blob/master/test.png)
 ## There only is the testing procedure.
-the model trained on MPII dataset (baiduyun_link)[http://pan.baidu.com/s/1clHjBK]
-and trained on addional leeds dataset(baiduyun_link)[http://pan.baidu.com/s/1pLRUej5]
+the model trained on MPII dataset [baiduyun_link](http://pan.baidu.com/s/1clHjBK)
+and trained on addional leeds dataset[baiduyun_link](http://pan.baidu.com/s/1pLRUej5)
